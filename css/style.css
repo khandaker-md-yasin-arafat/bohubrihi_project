@@ -2,10 +2,10 @@ body{
     font-family: 'Open Sans', sans-serif;
 }
 .banner-container{
-    background-color: #cacaca;
+    background-color: #dbe3e5;
 }
 .banner-column{
-    background-color: #8d8d8d;
+    background-color: #776d8a;
 }
 .navbar-container{
     background-color: #262b37;
@@ -14,7 +14,7 @@ body{
     z-index: 2;
 }
 .about-container{
-    background-color: #00bdbd;
+    background-color: #519872;
 }
 .education-container{
     overflow: hidden;
@@ -36,10 +36,13 @@ body{
     border-radius: 50%;
 }
 .project-container{
-    background-color: #2bb3dd;
+    background-color: #68b0ab;
 }
 .protfolio-container{
     background-color: #ffffff;
+}
+.gallery-container{
+    background-color: #d3c09a;
 }
 .form-container{
     background-color: #474d5d;
